@@ -1,0 +1,27 @@
+# --- AI Models & Large Files --
+*.bin
+*.pth
+*.onnx
+*.gguf
+*.safetensors
+models/
+
+# --- Vectors DB (Faiss) ---
+*.index
+*.faiss
+
+# --- Config & Secrets ---
+Config/
+.env
+
+# --- Audio/Video Data & Cache ---
+*.wav
+*.mp4
+/Modules/__pycache__/
+.ipynb_checkpoints/
+
+# --- Python Environment ---
+venv/
+.venv/
+__pycache__/
+*.py[cod]
