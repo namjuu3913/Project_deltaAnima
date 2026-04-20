@@ -25,3 +25,13 @@ venv/
 .venv/
 __pycache__/
 *.py[cod]
+
+# --- large folders ---
+STT/
+TTS/
+
+# --- other files ---
+*.json
+*.yaml
+*.yml
+.env
