@@ -35,5 +35,4 @@ TTS/
 *.yaml
 *.yml
 .env
-customLib/deltaEGO_v2/ThirdParty/nlohmann/json.hpp
-customLib/deltaEGO_v2/binding_src/json.hpp
+json.hpp
