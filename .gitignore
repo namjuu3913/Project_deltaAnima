@@ -36,3 +36,4 @@ TTS/
 *.yml
 .env
 json.hpp
+run_main.sh
